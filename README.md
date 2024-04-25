@@ -1,3 +1,3 @@
-its tg bot for geephack.agents hackaton
+its tg bot for deephack.agents hackaton
 
 April 25, 2024
